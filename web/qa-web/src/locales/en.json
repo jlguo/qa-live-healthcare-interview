@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "Professional Online Healthcare Platform",
+    "subtitle": "Connecting professional doctors and patients, providing convenient and efficient medical consultation services",
+    "features": {
+      "team": "Professional Doctor Team",
+      "online": "Real-time Online Consultation",
+      "privacy": "Privacy Security Protection"
+    },
+    "actions": {
+      "consult": "Consult Now",
+      "doctors": "View Doctors"
+    },
+    "stats": {
+      "doctors": "Professional Doctors",
+      "questions": "Total Questions",
+      "active": "Pending Questions",
+      "sessions": "Online Rooms"
+    },
+    "activeRooms": {
+      "title": "Active Rooms",
+      "subtitle": "The following doctor rooms are open, welcome to consult",
+      "enter": "Enter Room",
+      "online": "Online"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "consultation": "Consultation",
+    "doctors": "Doctors",
+    "about": "About",
+    "login": "Doctor Login"
+  }
+}
