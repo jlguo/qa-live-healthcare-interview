@@ -30,5 +30,30 @@
     "doctors": "医生",
     "about": "关于",
     "login": "医生登录"
+  },
+  "footer": {
+    "title": "QA Live Healthcare",
+    "description": "专业的在线医疗问诊平台",
+    "description2": "为您提供便捷、专业的医疗咨询服务",
+    "quickLinks": "快速链接",
+    "links": {
+      "home": "首页",
+      "consultation": "问诊",
+      "doctors": "医生团队",
+      "about": "关于我们"
+    },
+    "contact": {
+      "title": "联系我们",
+      "hotline": "客服热线: 400-123-4567",
+      "hours": "服务时间: 周一至周日 8:00-22:00",
+      "email": "邮箱: service@qalive.com"
+    },
+    "legal": {
+      "title": "法律信息",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "disclaimer": "医疗免责声明"
+    },
+    "copyright": "© 2025 QA Live Healthcare. All rights reserved."
   }
 }

@@ -30,5 +30,30 @@
     "doctors": "Doctors",
     "about": "About",
     "login": "Doctor Login"
+  },
+  "footer": {
+    "title": "QA Live Healthcare",
+    "description": "Professional Online Medical Consultation Platform",
+    "description2": "Providing convenient and professional medical consultation services for you",
+    "quickLinks": "Quick Links",
+    "links": {
+      "home": "Home",
+      "consultation": "Consultation",
+      "doctors": "Doctors",
+      "about": "About Us"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "hotline": "Hotline: 400-123-4567",
+      "hours": "Hours: Mon-Sun 8:00-22:00",
+      "email": "Email: service@qalive.com"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Medical Disclaimer"
+    },
+    "copyright": "© 2025 QA Live Healthcare. All rights reserved."
   }
 }
